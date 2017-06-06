@@ -5,3 +5,14 @@
 doskey/history 是windows下查看所有敲过的命令。
 
 git show tag是查看所有的tag。
+
+
+
+
+
+
+
+
+
+
+
